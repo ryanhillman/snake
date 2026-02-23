@@ -1,7 +1,6 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Language-Java-ED8B00?logo=openjdk&logoColor=white" />
   <img src="https://img.shields.io/badge/GUI-Swing%20%2F%20AWT-6DB33F" />
-  <img src="https://img.shields.io/badge/Paradigm-Object--Oriented%20Design-black" />
 </p>
 
 # Snake Game (Java)
