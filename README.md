@@ -1,11 +1,11 @@
-# 🐍 Snake Game (Java)
+# Snake Game (Java)
 
 This project is a modern implementation of the classic **Snake** game, built in **Java** as a portfolio piece to demonstrate object-oriented programming, event handling, and real-time game logic. 
 
-## 📷 Screenshot
+## Screenshot
 ![Snake Game Screenshot](screenshot.png)
 
-## 🎮 Features
+## Features
 - Responsive gameplay with keyboard controls (arrow keys).  
 - Real-time snake movement and growth when consuming food.  
 - Screen wrapping: snake seamlessly moves across edges and reappears on the opposite side.  
@@ -13,13 +13,13 @@ This project is a modern implementation of the classic **Snake** game, built in 
 - Clean, modular codebase with separate classes for UI, game loop, and logic.  
   
 
-## ⚙️ Technologies Used
+## Technologies Used
 - **Java (JDK 21+)**  
 - **Swing / AWT** for graphics and rendering  
 - Event listeners for keyboard input  
 - Thread management for smooth frame updates  
 
-## 🚀 Running the Game
+## Running the Game
 1. Clone the repository:
    ```bash
    git clone https://github.com/ryanhillman/Snake.git
